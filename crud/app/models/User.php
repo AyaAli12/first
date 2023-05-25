@@ -5,7 +5,7 @@ class User {
     private $email;
 
     public function getId() {
-        return $this->id;
+
     }
     public function setId($id) {
         $this->id = $id;
